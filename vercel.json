@@ -4,16 +4,16 @@
     { "src": "*.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/zubair", "dest": "/zubair.js" },
-        { "src": "/chumpa", "dest": "/chumpa.js" },
-    { "src": "/chumpapass", "dest": "/chumpapass.js" },
-{ "src": "/lula1", "dest": "/lula1.js" },
-    { "src": "/lula1pass", "dest": "/lula1pass.js" },
+    { "src": "/hussain", "dest": "/hussain.js" },
+    { "src": "/hussainpass", "dest": "/hussainpass.js" },
+{ "src": "/hamid", "dest": "/hamid.js" },
+    { "src": "/hamidpass", "dest": "/hamidpass.js" },
     { "src": "/wakar", "dest": "/wakar.js" },
     { "src": "/wakarpass", "dest": "/wakarpass.js" },
     { "src": "/ajy1", "dest": "/ajy1.js" },
     { "src": "/ajy1pass", "dest": "/ajy1pass.js" },
     { "src": "/mja", "dest": "/mja.js" },
+    { "src": "/chumpa", "dest": "/chumpa.js" },
     { "src": "/mjapass", "dest": "/mjapass.js" },
     { "src": "/asifpass", "dest": "/asifpass.js" }
   ]
